@@ -44,7 +44,7 @@ Feature	Description
 
     📅  Trend Charts	Monthly breakdown of Sales and Profit
 
-⚙ Filters/Slicers	Region, Segment, Ship Mode, and Year filters
+    ⚙  Filters/Slicers	Region, Segment, Ship Mode, and Year filters
 
 Folder Structure
 
