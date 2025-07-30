@@ -77,9 +77,13 @@ Folder Structure
 📊 Sample Insights
 
 📍 California leads in sales but has thin profit margins
+
 🚚 Standard Class is the most used shipping mode but not the most profitable
+
 🖨 Technology and Office Supplies are top-selling categories
+
 📆 Sales peak in November–December, showing seasonal trends
+
 🔮 Forecast suggests a dip post-holidays, aiding inventory planning
 
 📘 Learnings
