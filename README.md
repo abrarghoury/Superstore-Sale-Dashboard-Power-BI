@@ -8,45 +8,57 @@ To contribute to business growth by using data analysis techniques—specificall
 
 🚀 Project Highlights
 
-📌 Dashboard Creation
+   1) 📌 Dashboard Creation
 
 Designed a dynamic, user-friendly dashboard focused on key metrics such as Sales, Profit, Shipping Trends, and Payment Methods, with filters for Region and Segment.
 
-📉 Sales Forecasting
+   2) 📉 Sales Forecasting
 
 Applied time-series techniques to forecast daily sales for the next 15 days, based on historical trends from 2019 to 2021.
 
-📊 Data-Driven Insights
+   3) 📊 Data-Driven Insights
 
 Used DAX and Power Query to identify underperforming categories, profitable regions, and seasonal sales trends.
 
-🧭 Actionable Recommendations
+   4) 🧭 Actionable Recommendations
 
 Flagged loss-driving categories (e.g., Bookcases)
 
-Suggested optimal Shipping Classes
+   5) Suggested optimal Shipping Classes
 
 Identified time-based sales peaks to assist in planning and inventory
 
 🔍 Key Features
 
 Feature	Description
+
 📈 Sales Forecast	15-day prediction using time-series visual
+
 🗺 Region/State Analysis	Breakdown of performance by US states and regions
+
 📊 KPIs	Cards for Orders, Profit, Sales, and Avg. Ship Days
+
 📦 Category View	Deep dive into performance by Category/Sub-Category
+
 💳 Payment Modes	Card vs. Cash on Delivery vs. Online payments
+
 📅 Trend Charts	Monthly breakdown of Sales and Profit
+
 ⚙ Filters/Slicers	Region, Segment, Ship Mode, and Year filters
 
 Folder Structure
 
 📁Superstore-Sales-Dashboard
    ├── SuperstoreDashboard.pbix               ← Main Power BI file
+   
    ├── README.md                              ← Full project documentation
+   
        📁└── Images/                          ← Screenshots
+       
            ├── dashboard-overview.png
+           
            └── forecast-visual.png
+           
 🖼 Dashboard Preview
 
 📍 Overview & KPIs
@@ -54,15 +66,16 @@ Folder Structure
 📉 Sales Forecasting
 
 🛠 Tools & Technologies
-Power BI Desktop
 
-DAX (Data Analysis Expressions)
+    • Power BI Desktop
 
-Power Query Editor
+    • DAX (Data Analysis Expressions)
 
-Forecasting Visuals
+    • Power Query Editor
 
-Excel (.csv) — Superstore Dataset
+    • Forecasting Visuals
+
+    • Excel (.csv) — Superstore Dataset
 
 📊 Sample Insights
 
@@ -77,6 +90,7 @@ Excel (.csv) — Superstore Dataset
 🔮 Forecast suggests a dip post-holidays, aiding inventory planning
 
 📘 Learnings
+
 This project helped strengthen:
 
 Power Query for data modeling & transformation
