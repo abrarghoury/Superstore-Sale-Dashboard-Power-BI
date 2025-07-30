@@ -32,17 +32,17 @@ Identified time-based sales peaks to assist in planning and inventory
 
 Feature	Description
 
-📈 Sales Forecast	15-day prediction using time-series visual
+  📈 Sales Forecast 15-day prediction using time-series visual
 
-🗺 Region/State Analysis	Breakdown of performance by US states and regions
+  🗺 Region/State Analysis	Breakdown of performance by US states and regions
 
-📊 KPIs	Cards for Orders, Profit, Sales, and Avg. Ship Days
+  📊 KPIs Cards for Orders, Profit, Sales, and Avg. Ship Days
 
-📦 Category View	Deep dive into performance by Category/Sub-Category
+  📦 Category View Deep dive into performance by Category/Sub-Category
 
-💳 Payment Modes	Card vs. Cash on Delivery vs. Online payments
+  💳 Payment Modes Card vs. Cash on Delivery vs. Online payments
 
-📅 Trend Charts	Monthly breakdown of Sales and Profit
+  📅 Trend Charts	Monthly breakdown of Sales and Profit
 
 ⚙ Filters/Slicers	Region, Segment, Ship Mode, and Year filters
 
@@ -63,6 +63,7 @@ Folder Structure
 🖼 Dashboard Preview
 
    📍 Overview & KPIs
+   
    📉 Sales Forecasting
 
 🛠 Tools & Technologies
@@ -76,9 +77,13 @@ Folder Structure
 📊 Sample Insights
 
    📍 California leads in sales but has thin profit margins
+   
   🚚 Standard Class is the most used shipping mode but not the most profitable
+  
    🖨 Technology and Office Supplies are top-selling categories
+   
   📆 Sales peak in November–December, showing seasonal trends
+  
   🔮 Forecast suggests a dip post-holidays, aiding inventory planning
 
 📘 Learnings
