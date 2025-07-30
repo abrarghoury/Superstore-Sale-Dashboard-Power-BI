@@ -48,17 +48,17 @@ Feature	Description
 
 Folder Structure
 
-📁Superstore-Sales-Dashboard
+  📁Superstore-Sales-Dashboard
 
-   ├── SuperstoreDashboard.pbix               ← Main Power BI file
+      ├── SuperstoreDashboard.pbix               ← Main Power BI file
    
-   ├── README.md                              ← Full project documentation
+      ├── README.md                              ← Full project documentation
    
-       📁└── Images/                          ← Screenshots
+          📁└── Images/                          ← Screenshots
        
-           ├── dashboard-overview.png
+             ├── dashboard-overview.png
            
-           └── forecast-visual.png
+             └── forecast-visual.png
            
 🖼 Dashboard Preview
 
@@ -77,13 +77,9 @@ Folder Structure
 📊 Sample Insights
 
 📍 California leads in sales but has thin profit margins
-
 🚚 Standard Class is the most used shipping mode but not the most profitable
-
 🖨 Technology and Office Supplies are top-selling categories
-
 📆 Sales peak in November–December, showing seasonal trends
-
 🔮 Forecast suggests a dip post-holidays, aiding inventory planning
 
 📘 Learnings
@@ -98,6 +94,8 @@ Folder Structure
 
 
 💼 Let’s Connect
+
 📧 abrarshakeel21@gmail.com
+
 🔗  https://www.linkedin.com/in/abrar-ghoury/
 
