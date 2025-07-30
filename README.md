@@ -49,6 +49,7 @@ Feature	Description
 Folder Structure
 
 📁Superstore-Sales-Dashboard
+
    ├── SuperstoreDashboard.pbix               ← Main Power BI file
    
    ├── README.md                              ← Full project documentation
@@ -68,13 +69,9 @@ Folder Structure
 🛠 Tools & Technologies
 
     • Power BI Desktop
-
     • DAX (Data Analysis Expressions)
-
     • Power Query Editor
-
     • Forecasting Visuals
-
     • Excel (.csv) — Superstore Dataset
 
 📊 Sample Insights
@@ -91,17 +88,12 @@ Folder Structure
 
 📘 Learnings
 
-This project helped strengthen:
-
-Power Query for data modeling & transformation
-
-Writing DAX measures and calculated columns
-
-Creating interactive dashboards
-
-Time-series forecasting in Power BI
-
-Data storytelling with visuals
+1) This project helped strengthen:
+2) Power Query for data modeling & transformation
+3) Writing DAX measures and calculated columns
+4) Creating interactive dashboards
+5) Time-series forecasting in Power BI
+6) Data storytelling with visuals
 
 
 
