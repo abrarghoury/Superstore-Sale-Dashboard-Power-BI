@@ -59,6 +59,10 @@ Folder Structure
               ├── dashboard-overview.png
            
               └── forecast-visual.png
+              
+           📁└── Data/ 
+          
+               └──   SuperStore_Sales_Dataset
            
 🖼 Dashboard Preview
 
